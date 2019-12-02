@@ -20,4 +20,4 @@ This Project tells About the Food recipies,cocktail tips and beers info through 
 * [Cocktails specials](https://www.thecocktaildb.com/api/json/v1/1/random.php)
 * [API to acess Beers](https://api.punkapi.com/v2/beers?beer_name=)
 * [Trending Beers](https://api.punkapi.com/v2/beers/random)
-* [API of Google Map](https://www.google.com/maps/embed/v1/place?key=AIzaSyA0s1a7phLN0iaD6-UE7m4qP-z21pH0eSc&q=Chandigarh-Patiala,National Highway (NH- 64), Village, Jansla, Rajpura, Punjab 140401)
+* [API of Google Map](https://www.google.com/maps/embed/v1/place?key=AIzaSyA0s1a7phLN0iaD6-UE7m4qP-z21pH0eSc)
