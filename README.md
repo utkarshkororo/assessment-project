@@ -13,7 +13,7 @@ This Project tells About the Food recipies,cocktail tips and beers info through 
 * Cocktail Api
 * Beer Api
 * Google Maps
-## ** API End Points**
+## **API End Points**
 * [API to acess meals](https://www.themealdb.com/api/json/v1/1/search.php?s=)
 * [Meals Specials](https://www.themealdb.com/api/json/v1/1/random.php)
 * [API to cocktails](https://www.thecocktaildb.com/api/json/v1/1/search.php?s=)
